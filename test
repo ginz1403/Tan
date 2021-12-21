@@ -93,8 +93,7 @@
     "id": 5,
     "node_id": "MDQ6VXNlcjQ2",
     "date": "29/11/2021",
-    "text": "1/12/2021",
-    "avatar_url": "Tôi là một con thỏ yếu đuối, đến tuổi trưởng thành nhưng vẫn chưa thể biến thành hình người.
+    "text": "Tôi là một con thỏ yếu đuối, đến tuổi trưởng thành nhưng vẫn chưa thể biến thành hình người.
 
 Người thân nghĩ tôi không thể biến thành người, vì thế họ đã đặt tôi vào một chiếc giỏ ven đường.
 
@@ -113,6 +112,7 @@ Sau đó tôi được một con Hắc Báo xấu xa nhặt về.
 Làm sao để tôi có thể sống sót trước con hắc báo xấu xa này đây…",
     "gravatar_id": "",
     "url": "https://user-images.githubusercontent.com/96443195/146917825-c144825e-555d-4230-8b3b-ff553f17913b.jpg",
+    "avatar_url": "https://user-images.githubusercontent.com/96443195/146917082-f48cc339-98e6-4529-93b7-698f29ac8dea.jpg",
     "html_url": "https://github.com/bmizerany",
     "followers_url": "https://api.github.com/users/bmizerany/followers",
     "following_url": "https://api.github.com/users/bmizerany/following{/other_user}",
